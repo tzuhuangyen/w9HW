@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tzuhuangyen/w9HW.git/static/css/main.e6c13ad2.css",
-    "main.js": "/tzuhuangyen/w9HW.git/static/js/main.1b386b22.js",
-    "static/js/787.6da2224b.chunk.js": "/tzuhuangyen/w9HW.git/static/js/787.6da2224b.chunk.js",
-    "index.html": "/tzuhuangyen/w9HW.git/index.html",
-    "main.e6c13ad2.css.map": "/tzuhuangyen/w9HW.git/static/css/main.e6c13ad2.css.map",
-    "main.1b386b22.js.map": "/tzuhuangyen/w9HW.git/static/js/main.1b386b22.js.map",
-    "787.6da2224b.chunk.js.map": "/tzuhuangyen/w9HW.git/static/js/787.6da2224b.chunk.js.map"
+    "main.css": "/w9HW/static/css/main.e6c13ad2.css",
+    "main.js": "/w9HW/static/js/main.5404d439.js",
+    "static/js/787.6da2224b.chunk.js": "/w9HW/static/js/787.6da2224b.chunk.js",
+    "index.html": "/w9HW/index.html",
+    "main.e6c13ad2.css.map": "/w9HW/static/css/main.e6c13ad2.css.map",
+    "main.5404d439.js.map": "/w9HW/static/js/main.5404d439.js.map",
+    "787.6da2224b.chunk.js.map": "/w9HW/static/js/787.6da2224b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1b386b22.js"
+    "static/js/main.5404d439.js"
   ]
 }
